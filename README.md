@@ -1,5 +1,5 @@
 # Awesome Microservices
-Resources I found useful on microservices, test-driven Development, REST APIs, API design, DevOps.
+Resources I find useful and that I want to go back to on microservices, test-driven development, REST API design, DevOps.
 
 ## Microservices
 * Building Microservices: Designing Fine-Grained Systems by Sam Newman (intro book)
