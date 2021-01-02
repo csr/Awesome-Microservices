@@ -2,6 +2,7 @@
 Microservices, Test-driven Development, REST API resources I found useful
 
 ## Online resources
+* https://github.com/bregman-arie/devops-exercises (DevOps exercises)
 * https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm (dissertation on REST)
 * https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#autoloading (REST API)
 * https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture (microservices)
