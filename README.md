@@ -12,6 +12,7 @@ Resources I find useful and that I want to go back to on microservices, test-dri
 ## RESTful API
 * https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm (dissertation on REST)
 * https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api (best practices)
+* http://spec.openapis.org/oas/v3.0.3 (OpenAPI specification)
 
 ## Cool APIs to learn from
 * https://docs.github.com/en/free-pro-team@latest/rest/reference (GitHub)
