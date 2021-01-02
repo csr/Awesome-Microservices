@@ -17,6 +17,10 @@ Resources I found useful on microservices, test-driven Development, REST APIs, A
 * https://stripe.com/docs/api (Stripe)
 * https://www.yelp.com/developers/documentation/v3 (Yelp Fusion)
 
+## Cool engineering blogs
+* https://medium.com/@NetflixTechBlog
+* https://blog.twitter.com/engineering/en_us.html
+
 ## DevOps
 * Site Reliability Engineering: How Google Runs Production Systems
 * https://github.com/bregman-arie/devops-exercises (DevOps exercises)
