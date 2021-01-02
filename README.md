@@ -7,6 +7,7 @@ Resources I find useful and that I want to go back to on microservices, test-dri
 * https://www.hostedgraphite.com/blog/microservices-on-aws (microservices on AWS)
 * http://twitter.github.io/scala_school (Scala-based Twitter guide)
 * https://www.dropwizard.io/en/latest (JVM-based open-source microcontainer)
+* https://graphiteapp.org/#gettingStarted (production-grade monitoring tool)
 
 ## RESTful API
 * https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm (dissertation on REST)
