@@ -29,4 +29,5 @@ Resources I find useful and that I want to go back to on microservices, test-dri
 * https://www.12factor.net/ (Heroku SaaS principles)
 
 ## React
+* https://reactjs.org/tutorial/tutorial.html (beginner tutorial)
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript (JS tutorial)
