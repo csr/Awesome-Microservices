@@ -8,6 +8,9 @@ Resources I find useful and that I want to go back to on microservices, test-dri
 * http://twitter.github.io/scala_school (Scala-based Twitter guide)
 * https://www.dropwizard.io/en/latest (JVM-based open-source microcontainer)
 * https://graphiteapp.org/#gettingStarted (production-grade monitoring tool)
+* [35 Microservices Interview Questions You Most Likely Can't Answer](https://dev.to/fullstackcafe/35-microservices-interview-questions-you-most-likely-can-t-answer-2eoc)
+* [One less microservice than you need](https://blog.meadsteve.dev/programming/2020/02/16/one-less/)
+* [Microservices Design Guide](https://medium.com/platform-engineer/microservices-design-guide-eca0b799a7e8)
 
 ## RESTful API
 * https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm (dissertation on REST)
